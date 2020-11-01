@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <use xlink:href="#_Image1" x="11.076" y="11.076" width="27.616px" height="27.616px" transform="matrix(0.986277,0,0,0.986277,0,0)"/>
     <g transform="matrix(0.666667,0,0,0.666667,6.08895,6.28513)">
-        <path d="M18.175,22.089L22.384,22.089L22.384,17.881L31.349,17.881L31.349,22.089L35.558,22.089L35.558,31.055L31.349,31.055L31.349,35.264L22.384,35.264L22.384,31.055L18.175,31.055L18.175,22.089Z" style="fill:rgb(66,66,66);stroke:url(#_Linear1);stroke-width:0.87px;"/>
+        <path d="M18.175,22.089L22.384,22.089L22.384,17.881L31.349,17.881L31.349,22.089L35.558,22.089L35.558,31.055L31.349,31.055L31.349,35.264L22.384,35.264L22.384,31.055L18.175,31.055L18.175,22.089Z" style="fill:rgb(66,66,66);stroke:url(#_Linear2);stroke-width:0.87px;"/>
     </g>
     <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(17.3825,0,0,17.3825,18.1753,26.5723)"><stop offset="0" style="stop-color:rgb(255,0,250);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(241,177,49);stop-opacity:1"/></linearGradient>
+        <image id="_Image1" width="28px" height="28px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABaElEQVRIic2W7ZKDIAxFL9i+/wO3Yn9s0zleE+u67cwyw6ASOCbkA+lca89+auEnZNiWs5v5XEueubmDUnAFbAfH5eC4C+SmWa+AWd9ALwdg3UaCufnAKMw3Qh2YwaJPBiVwSJoBc2iqoWtHyITetQYGrGEkdKVlZlJqFpCLQQmcIR/Q0GqoMGl1dv0pc5F03QHOkm741qFZw/NSmdTN6FAH3rR1HnrqW5NGJ/AKcDeTBXxofabUUAGsYtE9lGfZIRewydak+1ZhQW27tufaIb8Ustzr1bp/+HbLNPR0NeyZfz2S+TKtBTBM4tChtRMwqBlnd8xzTVYtFtfQk28E9d1gWVgQnCVxST+eJW0dRcl7uDfT2QyQj1k8voAVlHCvDAQSFnNpmapMGol3tm8MamkLz86xrBZeu5jt3Uv3ylMG262H/COHHi3AqcNISSbQ9iw/esX4F5eoau6r18TfyrwF/bWdvuo/AIwI2Q2FpD07AAAAAElFTkSuQmCC"/>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(17.3825,0,0,17.3825,18.1753,26.5723)"><stop offset="0" style="stop-color:rgb(255,0,250);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(241,177,49);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>
