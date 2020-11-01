@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <use xlink:href="#_Image1" x="5.711" y="5.393" width="37.985px" height="40.684px" transform="matrix(0.999596,0,0,0.992291,0,0)"/>
+    <g transform="matrix(1,0,0,1,-0.457433,-2.14536)">
+        <path d="M23.116,36.788L23.116,14.161C23.116,13.42 23.717,12.819 24.457,12.819C25.198,12.819 25.799,13.42 25.799,14.161L25.799,36.788L36.107,36.788C36.847,36.788 37.449,37.39 37.449,38.13C37.449,38.871 36.847,39.472 36.107,39.472L12.808,39.472C12.068,39.472 11.466,38.871 11.466,38.13C11.466,37.39 12.068,36.788 12.808,36.788L23.116,36.788Z" style="fill:rgb(66,66,66);stroke:url(#_Linear2);stroke-width:0.8px;"/>
+    </g>
+    <defs>
+        <image id="_Image1" width="38px" height="41px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAApCAYAAABZa1t7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB40lEQVRYhe2Y0ZKGIAiFj9X7P7LtzU9Lp4Oibf/sRcw0GZV+ISJUcE9K5/7+VMfZ9/iagYYBZ8CKaEdgu9ANDzIDVRD3sbvD61KyDYIZEIP1pnIICpgD81ALYrAdQJ2BGgVjCzEcg1WhT0POWgwEtdC9+tGxj6Vl1sfYYgxmcH6av+pjys92/FrL9I/6mAFFcF7P1jL9V8IFw/Ez01CA9o2MZGAiXUrurEo/sLLQ7D4MYN5ij8sLNiov2Ki8YKPyb8EyATbKWNWBxLMmzS1KgamInRko+45BNdNxBmtVQK0M1mexvkKKwAquldRpo/dgEYhvL+KIptLuqxrToLmCOnQGpqzC1wXAinM6zYDeAsA1YfRgylIH3NaAUBmqB1nRB1s/5+p0voJSNcEOoETOz74TWYmn08TCkLeKT7Mtw60ISjz2MWWpCKTlYwanwAykimcOwIWUoGueymyoiD6WPzocuxVg1SLw0vovof5b+H54QVwkm1pHS9xX2yqOMWC6AG6B+dWz4Oy0LUvy+woyWpEXMJ4Gv7x5G8lA9eCqO1cI6yqLWUcGp3xCbV1RP76dttzmBlVm9XAjUBk4BXroM5u2ujcrvHEz5HGOvj7TvgPWbauBsro70v0V2hvwr4FYwnDxA3fvnyrNkbnVAAAAAElFTkSuQmCC"/>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.6915,0,0,2e-06,16.4676,32.4579)"><stop offset="0" style="stop-color:rgb(255,0,250);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(241,177,49);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
