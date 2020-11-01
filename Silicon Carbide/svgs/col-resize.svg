@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(-1,0,0,1,50.188,1.20319)">
-        <g transform="matrix(-1,0,0,1,50.188,-1.20319)">
-            <use xlink:href="#_Image1" x="9.331" y="0" width="31.975px" height="48px" transform="matrix(0.999233,0,0,1,0,0)"/>
+        <g id="_Image1_" serif:id="_Image1" transform="matrix(-6.11854e-17,0.999233,1,6.12323e-17,0.876429,6.80908)">
+            <use xlink:href="#_Image1" x="0" y="0" width="32px" height="48px"/>
         </g>
         <g transform="matrix(2.15007,2.63308e-16,2.35854e-16,-1.92589,-23.6442,69.3219)">
             <path d="M23.909,20.212C23.909,19.761 23.581,19.395 23.177,19.395C22.773,19.395 22.445,19.761 22.445,20.212L22.445,27.91C22.445,28.361 22.773,28.727 23.177,28.727C23.581,28.727 23.909,28.361 23.909,27.91L23.909,20.212Z" style="fill:rgb(66,66,66);stroke:url(#_Linear2);stroke-width:0.26px;"/>
