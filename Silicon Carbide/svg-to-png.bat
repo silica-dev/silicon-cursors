@@ -1,1 +1,0 @@
- FOR /L %%A IN (1,1,24) DO inkscape -p svgs\process-%%A.svg -o pngs\process-%%A.png
