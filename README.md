@@ -4,7 +4,7 @@ A flat, colorful cursor theme
 ## Status
 ### Silicon Carbide:
 * Windows: Working build
-* Linux: In Progress
+* Linux: Design finished
 
 ### Silicon Dioxide:
 * Windows: Not Started
@@ -14,8 +14,9 @@ A flat, colorful cursor theme
 * Windows: Not Started
 * Linux: Not Started
 
-### Build:
-* Linux build script: Not Started
+### Misc:
+* Linux build: Not Started
+* Gallery images: Started
 
 ## Installation
 ### Windows
