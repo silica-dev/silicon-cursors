@@ -73,7 +73,7 @@ done
     echo -ne "\033[0KGenerating animated cursors for silicon carbide... \\r"
 for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 do
-    echo -ne "\033[0KGenerating pngs for silicon carbide Progress... $i / 45 \\r"
+    echo -ne "\033[0KGenerating pngs for silicon carbide Progress... $i / 24 \\r"
 
     inkscape -w 28 -h 28 -p $RAWSVGS_silicon_carbide/progress-$i.svg -o "$DIR2X_silicon_carbide/progress-$i.png" > /dev/null 2>&1
     inkscape -w 24 -h 24 -p $RAWSVGS_silicon_carbide/progress-$i.svg -o "$DIR1X_silicon_carbide/progress-$i.png" > /dev/null 2>&1
@@ -92,7 +92,7 @@ done
 
 for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 do
-    echo -ne "\033[0KGenerating pngs for silicon carbide Wait... $i / 45 \\r"
+    echo -ne "\033[0KGenerating pngs for silicon carbide Wait... $i / 24 \\r"
 
     inkscape -w 24 -h 24 -p $RAWSVGS_silicon_carbide/wait-$i.svg -o "$DIR1X_silicon_carbide/wait-$i.png" > /dev/null 2>&1
     inkscape -w 28 -h 28 -p $RAWSVGS_silicon_carbide/wait-$i.svg -o "$DIR2X_silicon_carbide/wait-$i.png" > /dev/null 2>&1
