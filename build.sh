@@ -158,7 +158,7 @@ echo -e "\033[0KGenerating Installer... DONE"
 echo -ne "Making Installer Executable...\\r"
     if ! [ -e "$OUTPUT_silicon_carbide/$INDEX_silicon_carbide" ] ; then
         cd "$( dirname "${BASH_SOURCE[0]}" )" || exit
-        gksu chmod +x install.sh
+        sudo chmod +x install.sh
     fi
 
 show_Msg() {
