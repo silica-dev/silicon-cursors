@@ -151,14 +151,14 @@ echo -e "\033[0KCopying Theme Index... DONE"
 echo -ne "Generating Installer...\\r"
     if ! [ -e "$OUTPUT_silicon_carbide/$INDEX_silicon_carbide" ] ; then
         cd "$( dirname "${BASH_SOURCE[0]}" )" || exit
-        cp src/in.inst Installer_Bibata.sh
+        cp src/in.inst install.sh
     fi
 echo -e "\033[0KGenerating Installer... DONE"
 
 echo -ne "Making Installer Executable...\\r"
     if ! [ -e "$OUTPUT_silicon_carbide/$INDEX_silicon_carbide" ] ; then
         cd "$( dirname "${BASH_SOURCE[0]}" )" || exit
-        gksu chmod +x Installer_Bibata.sh
+        gksu chmod +x install.sh
     fi
 
 show_Msg() {
@@ -171,7 +171,7 @@ show_command() {
 echo -e "\033[0KMaking Installer Executable... DONE"
 
 show_Msg "For Installation Use Following Command:\n\n"
-show_command "\t sudo ./Installer_Bibata.sh\n"
+show_command "\t sudo ./install.sh\n"
 exit
 
 echo "COMPLETE!"
