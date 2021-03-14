@@ -2,7 +2,7 @@
 A flat, colorful cursor theme
 
 ## Gallery
-<p align="center"><h3 align="center">Silicon Carbide</h3><img align="center" title="silicon carbine" src="https://github.com/Silicasandwhich/silicon-cursors/blob/main/Gallery/carbine.png"></p>
+<p align="center"><h3 align="center">Silicon Carbide</h3><img align="center" title="silicon carbide" src="https://github.com/Silicasandwhich/silicon-cursors/blob/main/Gallery/carbide.png"></p>
 
 
 ## Status
