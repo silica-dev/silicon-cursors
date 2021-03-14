@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <use xlink:href="#_Image1" x="0" y="0" width="48px" height="48px"/>
-    <g transform="matrix(2.50313,-2.8893e-16,2.8893e-16,2.50313,-33.2511,-31.4198)">
-        <circle cx="22.994" cy="21.835" r="7.99" style="fill:url(#_Linear2);stroke:white;stroke-width:0.26px;"/>
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <use id="_Image1_" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="48px" height="48px"/>
+    <g transform="matrix(2.46496,-2.84524e-16,2.84524e-16,2.46496,-32.3735,-30.5864)">
+        <circle cx="22.994" cy="21.835" r="7.99" style="fill:url(#_Linear2);"/>
     </g>
     <g transform="matrix(0.867485,1.50253,-1.50253,0.867485,38.5843,-33.0889)">
         <path d="M18.927,32.924C15.506,31.104 13.174,27.502 13.174,23.36C13.174,17.385 18.025,12.534 24,12.534C29.975,12.534 34.826,17.385 34.826,23.36C34.826,29.335 29.975,34.186 24,34.186C22.236,34.186 20.571,33.763 19.099,33.013L19.993,31.986C21.244,32.61 22.656,32.962 24.149,32.962C29.217,32.962 33.348,28.912 33.477,23.874L32.379,23.874C32.25,28.306 28.611,31.864 24.149,31.864L22.49,31.697C21.88,31.571 21.294,31.378 20.741,31.126L21.835,29.869L17.172,28.666L18.927,32.924ZM15.77,23.116C15.899,18.684 19.537,15.126 24,15.126L25.659,15.293C26.269,15.419 26.855,15.612 27.408,15.864L26.314,17.12L30.976,18.324L29.141,13.872L28.156,15.004C26.904,14.379 25.493,14.028 24,14.028C18.931,14.028 14.801,18.078 14.672,23.116L15.77,23.116Z" style="fill:rgb(66,66,66);"/>
