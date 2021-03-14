@@ -67,6 +67,9 @@ install() {
   cp -rf Silicon_Carbide $DEST_DIR
   chmod -R 755 $DEST_DIR/Silicon_*
 
+   cp -rf silicon_dioxide $DEST_DIR
+  chmod -R 755 $DEST_DIR/Silicon_*
+
 
 
   echo "Installation complete!"
@@ -78,7 +81,7 @@ remove() {
   # PREVIEW
 
   # Show installation directory
-  if [[ -d $DEST_DIR/silicon_carbide ]]; then
+  if [[ -d $DEST_DIR ]]; then
     echo -e "\nsilicon cursors Theme installed in:\n"
     show_dir "\t$DEST_DIR"
     if [ "$UID" -eq "$ROOT_UID" ]; then
@@ -100,7 +103,7 @@ remove() {
   echo -e "\nRemoving silicon..."
 
   # Removing files
-  rm -rf $DEST_DIR/silicon_carbide
+  rm -rf $DEST_DIR
 
   echo "Removal complete!"
   echo "If you had any problems with the theme, feel free to let me know at the github page!"
