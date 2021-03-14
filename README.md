@@ -3,6 +3,7 @@ A flat, colorful cursor theme
 
 ## Gallery
 <p align="center"><h3 align="center">Silicon Carbide</h3><img align="center" title="silicon carbide" src="https://github.com/Silicasandwhich/silicon-cursors/blob/main/Gallery/carbide.png"></p>
+<p align="center"><h3 align="center">Silicon Dioxide</h3><img align="center" title="silicon dioxide" src="https://github.com/Silicasandwhich/silicon-cursors/blob/main/Gallery/dioxide.png"></p>
 
 
 ## Status
@@ -11,8 +12,8 @@ A flat, colorful cursor theme
 * Linux: Working build
 
 ### Silicon Dioxide:
-* Windows: Not Started
-* Linux: Not Started
+* Windows: svgs finished
+* Linux: svgs finished
 
 ### Silicon Antimatter:
 * Windows: Not Started
